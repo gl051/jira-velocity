@@ -1,0 +1,23 @@
+Issue key,Issue id,Summary,Status,Custom field (Workstream),Custom field (Story Points),Project key,Project name,Project type,Project lead,Project description,Project url,Sprint,Sprint,Sprint
+PLTF-362,69503,Uploads v0 delete api uses GridDataApi::Dataset::Transformation::Jobs::UploadDeleteBatchJob::Create behind a feature flag,Closed,Sustainability,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-356,68443,Redis::TimeoutError for EntityDataAPI in Integration environment,Closed,Sustainability,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-354,68394,Reduce resources for the DelphiusApp web pods in Integration environment,Closed,Sustainability,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-351,68346,Update TAPI configuration in integration to utilize the dedicated DelphiusApp TAPI-only web pods,Closed,Sustainability,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-348,68338,Give TAPI its own set of DelphiusApp Web Pods in Integration Environment,Closed,Sustainability,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-344,68326,Provision new Redis cluster for EntityDataAPI in Integration Environment,Closed,Sustainability,2.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-340,68288,Reduce memory limit for Datasets Web Pods in Integration Environment,Closed,Sustainability,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-334,68257,Test paperclip/S3 upgrade,Closed,Sustainability,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-326,68210,Use `rspec-retry` gem into master,Closed,Sustainability,5.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-304,68155,Improve reading the Ingestion dashboard in Sumologic ,Closed,Data Ingestion,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-299,68078,Kafka renewal decision: requirements from Platform ,Closed,Data Management & Warehouse,2.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,Platform 19.11.1 Phase 2,
+PLTF-292,67975,Final code review and cleanup resulting from the  DDD sesison.,Closed,Data Ingestion,5.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.1,Platform - 19.11.2,
+PLTF-266,67874,Playbook for uploads processing for more than 12 hours,Closed,Sustainability,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-262,67838,Query service skeleton,Closed,Query Service,5.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-255,67820,Examples of input data schemas,Closed,Data Management & Warehouse,1.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-241,67786,Separate appendPage command for Autoclosable Job and Open-ended Job,Closed,Data Ingestion,2.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.2,,
+PLTF-69,66853,Determine which semantic types are in use in the platform today,Closed,Data Management & Warehouse,3.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.1,Platform - 19.11.2,Platform 19.11.1 Phase 2
+PLTF-38,66627,Convert OGQL v0 client to use fast return,Closed,Query Service,3.0,PLTF,Platform,software,gbiccari,,,Platform - 19.11.1,Platform - 19.11.2,Platform 19.11.1 Phase 2
+ESN-595,68179,COA- Add missing ledger to COA [St. Helena],Closed,,1.0,ESN,Engineering support ,software,ljoshi,,,Platform - 19.11.2,,
+ESN-592,68154,COA: Retree Request - Covered California,Closed,,1.0,ESN,Engineering support ,software,ljoshi,,,Platform - 19.11.2,,
+ESN-575,68052,Platform: Incline Village files in batch taking significantly long time to process,Closed,,1.0,ESN,Engineering support ,software,ljoshi,,,Platform - 19.11.2,Platform 19.11.1 Phase 2,
+ESN-565,67985,New Admin getting 500 server error when trying to log in,Closed,,,ESN,Engineering support ,software,ljoshi,,,Platform - 19.11.2,,
