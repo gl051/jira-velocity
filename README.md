@@ -1,5 +1,5 @@
 # jira-velocity
-Build custom velocity charts, work in progress ..
+Build custom velocity charts
 
 ## Getting exports from JIRA
 1. Look at the velocity chart
